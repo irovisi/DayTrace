@@ -7,7 +7,7 @@
 DayTrace автоматически отслеживает приложения, сайты, игры, музыку и заметки Obsidian.  
 Все данные хранятся только на вашем компьютере.
 
-[![Version](https://img.shields.io/badge/version-1.4.0-2563eb)](https://github.com/irovisi/daytrace/releases)
+[![Version](https://img.shields.io/github/v/release/irovisi/daytrace?label=version&sort=semver)](https://github.com/irovisi/daytrace/releases/latest)
 ![Platform](https://img.shields.io/badge/platform-Windows_11-0078D4?logo=windows11)
 ![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white)
 ![Privacy](https://img.shields.io/badge/data-local_only-16a34a)
